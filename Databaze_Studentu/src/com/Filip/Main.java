@@ -21,6 +21,7 @@ public class Main {
         System.out.println("3) Odebrat osobu z databaze");
         if (s == 1 ) {
             //funkce hledej osobu...
+            //ksakdkaksd
         }
 
 
